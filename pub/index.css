@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+.title{
+    padding:10px;
+    background-color: #ccaacc;
+    margin:10px;
+    border-radius: 5px;
+}
+label{
+    font-size:0.8em;
+}
+input{
+    margin-bottom:5px;
+}
+#message{
+    text-align: left;
+}
+h2{
+    font-family: 'DotGothic16', sans-serif;
+}
